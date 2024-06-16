@@ -32,7 +32,5 @@ Running Perl on Windows
 
 1. Open Command Prompt (cmd) or PowerShell.
 2. Navigate to the directory where your Perl script is located.
-3. Run your Perl script by typing:
-   '''sh
-   perl scriptname.pl
+3. Run your Perl script by typing: perl scriptname.pl
 
